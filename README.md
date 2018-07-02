@@ -51,3 +51,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 Bazel is released in 'Beta'.
 See the [product roadmap](https://bazel.build/roadmap.html) to learn about the
 path toward a stable 1.0 release.
+
+Note: This is a tree for arm builds for the 0.15.0 tag and 0.15.0-arm branch.
+
